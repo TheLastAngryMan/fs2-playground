@@ -1,0 +1,48 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JetCodeStyleSettings>
+      <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+        <value>
+          <package name="java.util" alias="false" withSubpackages="false" />
+          <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
+          <package name="io.ktor" alias="false" withSubpackages="true" />
+        </value>
+      </option>
+      <option name="PACKAGES_IMPORT_LAYOUT">
+        <value>
+          <package name="" alias="false" withSubpackages="true" />
+          <package name="java" alias="false" withSubpackages="true" />
+          <package name="javax" alias="false" withSubpackages="true" />
+          <package name="kotlin" alias="false" withSubpackages="true" />
+          <package name="" alias="true" withSubpackages="true" />
+        </value>
+      </option>
+    </JetCodeStyleSettings>
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="com.obsidiansecurity.persistence.augments.AugmentUtils._" />
+          <option value="com.obsidiansecurity.persistence.augments.RecordAugments._" />
+          <option value="com.obsidiansecurity.persistence.common.config.ConfigCodecs._" />
+          <option value="com.obsidiansecurity.persistence.config.ConfigCodecs._" />
+          <option value="com.obsidiansecurity.persistence.converters.activity.TracebackConverter._" />
+          <option value="com.obsidiansecurity.persistence.converters.entity.EntityConverter._" />
+          <option value="com.obsidiansecurity.persistence.converters.entity.enrichments.EnrichmentsConverter._" />
+          <option value="com.obsidiansecurity.persistence.interactions.utils.FutureHelpers._" />
+          <option value="com.obsidiansecurity.persistence.testutils.EasyRandomUtils._" />
+          <option value="com.obsidiansecurity.scyllabackup.validator.config.ConfigCodecs._" />
+          <option value="org.apache.spark.sql.functions._" />
+          <option value="org.mockito.ArgumentMatchersSugar._" />
+          <option value="org.mockito.IdiomaticMockito._" />
+          <option value="scala.collection.JavaConverters._" />
+          <option value="scala.compat.java8.OptionConverters._" />
+          <option value="scala.concurrent.ExecutionContext.Implicits.global" />
+          <option value="scala.concurrent.duration._" />
+          <option value="spark.implicits._" />
+          <option value="toml.Codecs._" />
+        </array>
+      </option>
+      <option name="FORMATTER" value="1" />
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
