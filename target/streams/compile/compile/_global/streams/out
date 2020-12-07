@@ -1,11 +1,11 @@
-[0m[[0m[33mwarn[0m] [0m[0m/Users/davidelston/go/src/git.obsec.run/dataplatform/fs2-playground/src/main/scala/ExampleOne.scala:27:18: multiline expressions might require enclosing parentheses; a value can be silently discarded when Unit is expected[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m/home/david/github.com/TheLastAngryMan/fs2-playground/src/main/scala/ExampleOne.scala:27:18: multiline expressions might require enclosing parentheses; a value can be silently discarded when Unit is expected[0m[0J
 [0m[[0m[33mwarn[0m] [0m[0m          Stream.empty[0m[0J
 [0m[[0m[33mwarn[0m] [0m[0m                 ^[0m[0J
-[0m[[0m[33mwarn[0m] [0m[0m/Users/davidelston/go/src/git.obsec.run/dataplatform/fs2-playground/src/main/scala/ExampleOne.scala:20:59: match may not be exhaustive.[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m/home/david/github.com/TheLastAngryMan/fs2-playground/src/main/scala/ExampleOne.scala:20:59: match may not be exhaustive.[0m[0J
 [0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Start(_)[0m[0J
 [0m[[0m[33mwarn[0m] [0m[0m    def processEvent: Pipe[IO, Signals, Unit] = _.flatMap {[0m[0J
 [0m[[0m[33mwarn[0m] [0m[0m                                                          ^[0m[0J
-[0m[[0m[33mwarn[0m] [0m[0m/Users/davidelston/go/src/git.obsec.run/dataplatform/fs2-playground/src/main/scala/ExampleTwo.scala:16:70: match may not be exhaustive.[0m[0J
+[0m[[0m[33mwarn[0m] [0m[0m/home/david/github.com/TheLastAngryMan/fs2-playground/src/main/scala/ExampleTwo.scala:16:70: match may not be exhaustive.[0m[0J
 [0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Start(_)[0m[0J
 [0m[[0m[33mwarn[0m] [0m[0m    def processEvent: Pipe[IO, Signals, Unit] = pipe => pipe.flatMap {[0m[0J
 [0m[[0m[33mwarn[0m] [0m[0m                                                                     ^[0m[0J

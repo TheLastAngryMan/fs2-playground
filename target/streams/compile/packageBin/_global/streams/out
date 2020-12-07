@@ -1,1 +1,29 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /Users/davidelston/go/src/git.obsec.run/dataplatform/fs2-playground/target/scala-2.13/fs2-playground_2.13-0.1.jar[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/fs2-playground_2.13-0.1.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleOne$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/ExampleOne$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Start$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/Start$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	ControlStream2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/ControlStream2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleThree.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/ExampleThree.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Reload.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/Reload.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Reload$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/Reload$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleThree$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/ExampleThree$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Start.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/Start.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleOne.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/ExampleOne.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	ControlStream.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/ControlStream.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleTwo$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/ExampleTwo$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleTwo.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/ExampleTwo.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	Signals.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/david/github.com/TheLastAngryMan/fs2-playground/target/scala-2.13/classes/Signals.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J
